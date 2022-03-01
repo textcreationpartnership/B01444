@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the several treaties of the allies, with the crown of France.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01444</idno>
+            <idno type="STC">Wing A387A</idno>
+            <idno type="STC">ESTC R173166</idno>
+            <idno type="EEBO-CITATION">52528728</idno>
+            <idno type="OCLC">ocm 52528728</idno>
+            <idno type="VID">178692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178692)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2766:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the several treaties of the allies, with the crown of France.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1697.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint date suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France. --  Sovereign (1643-1715 : Louis XIV)</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Treaties --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  Treaties --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178692:1" rendition="simple:additions"/>
+            <head>An <hi>ACCOUNT</hi> of the ſeveral Treaties of the <hi>Allies,</hi> with the Crown of <hi>France.</hi>
+            </head>
+            <opener>
+               <dateline>Dantzick, <date>October 12.</date>
+               </dateline>
+            </opener>
+            <p>OUR laſt Advices from <hi>Poland</hi> ſay, That the new King's Affairs go on with all the ſucceſs that can be deſired; and that his Majeſty, by the Advice of his beſt Counſellors, was reſolved to go to <hi>Lemberg,</hi> to re<g ref="char:EOLhyphen"/>ceive the Homage of the <hi>Poliſh</hi> Army in the Neighbourhood of that place, before he go to <hi>Warſaw.</hi> In the mean time 300000 Florins, rai<g ref="char:EOLhyphen"/>ſed by a certain Impoſt ſince the late King's death, is ready here to be diſpoſed of as his Majeſty ſhall think fit. The Prince of <hi>Conti</hi> hath not yet dar'd to go to <hi>Ma<g ref="char:EOLhyphen"/>rienburg,</hi> nor to ſtay one Night aſhoar, but keeps for the moſt part on board. <hi>Craici Coronni,</hi> the chief of his Party in the Neighbourhood, hath not as yet got above 400 <hi>Poles</hi> together at <hi>Oliva</hi> for <hi>Conti</hi>'s Service: And the Caſtellan <hi>Bidgouski Nieme<g ref="char:EOLhyphen"/>nouski,</hi> having come ſome days ago to ſalute the Prince of <hi>Conti,</hi> in a very reverend manner, he thought himſelf not kindly enough receiv'd, and thereupon rode im<g ref="char:EOLhyphen"/>mediatly away, with 40 of his Retinue; whereof the Prince having ask'd the rea<g ref="char:EOLhyphen"/>ſon, the Cardinal told him, That the <hi>Poles</hi> lov'd to be complimented. Many others have alſo deſerted him, becauſe they have been diſappointed of their Money, in which they reckon'd to have wallowed. It's now ſaid, that the Princes Creatures deſign to go to <hi>Lithuania,</hi> to try their fortune there, but with as little appearance of ſucceſs as they have had in <hi>Pruſſia.</hi> Our Senate have now 4000 Soldiers on Foot, beſide 6 Companies of Burghers, who keep Guard day and night.</p>
+            <p>
+               <hi>Hague, October</hi> 21. To day the Peace betwixt us and <hi>France</hi> was publiſh'd here with much ſolemnity, according to which all Hoſtilities are to ceaſe in four Weeks, time beginning from the 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt of <hi>October</hi> 1697. being the day of publication here, and reaching to the 18th of <hi>November</hi> in the Eaſt and North Sea, from <hi>Terneuſe</hi> in <hi>Norway</hi> to the end of the Channel, and from thence to Cape St. <hi>Vincent,</hi> after the 2d of <hi>December;</hi> and from thence after the 30th of <hi>December</hi> to the Line, and after the 21ſt of <hi>June</hi> 98, all over the World. The 6th of <hi>November</hi> is to be obſerved here as a day of General Thankſgiving. The Ratification from <hi>Spain</hi> is not yet arriv'd, but that under the Great Seal of <hi>England</hi> was exchang'd on the 17th. <hi>N. S.</hi> We expect every day that the <hi>German</hi> Miniſters will terminate their Affairs ſo as to Sign the Treaty. Yeſterday an Engliſh Ketch was ſtranded at <hi>Heye,</hi> but the Crew ſav'd. The Earl of <hi>Portland</hi> is gone hence again to <hi>Loo.</hi> The Earl of <hi>Mancheſter</hi> be<g ref="char:EOLhyphen"/>ing bound to <hi>Venice</hi> on his Embaſſy, hath been here with the Engliſh Ambaſſadors. Vice-Admiral <hi>Everts,</hi> and our Men of War from <hi>England,</hi> is arriv'd at <hi>Middleburg.</hi>
+            </p>
+            <p>The Treaty of Peace betwixt <hi>France</hi> and <hi>Spain</hi> conſiſts of 38 Articles; the chief of which are, That there ſhall be a perpetual Peace betwixt the two Kings, their Heirs, Succeſſors, and Dominions. That <hi>G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ronne, Roſes, Belveder, Barcelona,</hi> and all others taken ſince the Treaty of <hi>Nimeguen,</hi> ſhall be reſtored to <hi>Spain,</hi> in the ſame Condition they were taken. That the Town, Citadel and Dutchy of <hi>Luxemburg,</hi> with the Artillery taken therein, the County of <hi>Chiny</hi> and their dependencies ſhall be reſtored in the preſent ſtate. <hi>Charleroy</hi> the like. <hi>Mons</hi> and its dependencies the like, except 16 Villages which are named <hi>Courtray,</hi> with the Artillery therein found, and it's dependencies, as they are at preſent. All ſuch Places taken before or on the Day of this Peace, in what place of the World ſoever, ſhall be mutually reſto<g ref="char:EOLhyphen"/>red by the ſaid two Kings. All the Places re-united by the moſt Chriſtian King, ſince the Treaty of <hi>Nimeguen,</hi> ſhall be reſtored to <hi>Spain,</hi> according to the Liſt, with their Sovereignity, immediatly after the Ratifications, except 82 Villages which the King of <hi>France</hi> pretends to, as the dependencies of <hi>Charlemont, Maubeuge,</hi> &amp;c. which ſhall be treated of by Commiſſioners on both ſides, or left to the Ar<g ref="char:EOLhyphen"/>bitriment of the States of <hi>Holland.</hi> The <hi>French</hi> ſhall have the uſe of the Waggons in the Neighbourhood for two Months, to carry off their Artillery, <hi>&amp;c.</hi> All Pri<g ref="char:EOLhyphen"/>ſoners ſhall be releaſed without ranſom, on paying their Debts. That the Subjects on both ſide ſhall have freedom of Trade one with another, paying the ordinary Impoſts. That all Papers belonging to the reſtored Places, as alſo thoſe taken from the Citadel of <hi>Ghent</hi> and the Chamber of <hi>Ryſſel,</hi> ſhall be reſtored. That all Contri<g ref="char:EOLhyphen"/>butions and Arrears ſhall mutually ceaſe, after the Ratification. The Subjects of both ſides ſhall be reſtored to their Eſtates, but without any expectation of Arrears or Rents from one another, during the War. No Goods or Effects confiſcated, ſhall be levied on either ſide. And thoſe that have ſerved the contrary ſide, ſhall be re<g ref="char:EOLhyphen"/>ſtored
+<pb facs="tcp:178692:2"/>to their Eſtates, and the Protection of their Sovereign! Which Re-eſtabliſhment ſhall be perform<g ref="char:EOLhyphen"/>ed according to the 21ſt and 22d Articles of the Treaty of <hi>Nimiguen.</hi> The 24th and 25th Articles, con<g ref="char:EOLhyphen"/>cerning Benefices, ſhall be executed; ſo that thoſe who have Offices ſhall hold 'em. The Subjects of ei<g ref="char:EOLhyphen"/>ther Prince are at free liberty to diſpoſe of the Eſtates they have under either. Each of the Kings ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll pay the Taxes the Generality of their Subjects is tax'd in, as ſhall be regulated by Commiſſioners. The Rents ſettled upon the Dominions by the foreſaid Treaties, ſhall be paid to whom they are due. All the Prizes taken in 4 Weeks after the Publication, betwixt <hi>Terneuſe</hi> in <hi>Norway</hi> and the end of the Canal, ſhal be reſtored in 6 weeks to the Cape of St. <hi>Vincent;</hi> 10 weeks to the <hi>Mediterranean,</hi> and to the Line; and in 8 Months all over the World. In caſe of a new Rupture, the Subjects of each are to have 6 Months to return their effects. The Troops are to retire to their dwn Territories immediatly, on the Ratification. The Rents of the Lands ſhall be continued to the Poſſeſſors: till the Day of Reſtitution. The Treaty of <hi>Nimeguen</hi> ſhall be executed, except where it is herein otherwiſe provided or altered. The Licenſes granted by the Par<g ref="char:EOLhyphen"/>liament of <hi>Tournay,</hi> ſhall take effect during the French Kings poſſeſſion. The Town and Caſtle of <hi>Di<g ref="char:EOLhyphen"/>nant</hi> ſhall be reſtored to the Biſhop of <hi>Liege</hi> as they were taken. The King of <hi>Spain</hi> ſhall reſtore <hi>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nz<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to the Duke of <hi>Parma.</hi> The Treaty 'twixt <hi>France and Savoy</hi> in 1696. ſhall be compriſed in this. And the King of <hi>Sweden</hi> and others, as they are in the Treaty 'twixt <hi>England</hi> and <hi>France.</hi>
+            </p>
+            <p>The Treaty betwixt <hi>France</hi> and the States of <hi>Holland</hi> conſiſts of 21 Articles: The principal of which are, That there ſhall be a perpetual Peace betwixt them and their Subjects. That by vertue of the ſaid Treaty, they ſhall promote one anothers Welfare, agree to no other Treaty to one anothers diſadvantage, but break the ſame, and the firſt that it's propoſed to ſhall diſcover it: That any goods taken into Arreſt, or Confiſcated on either ſide, ſhall be reſtored without regard to differenced of Re<g ref="char:EOLhyphen"/>ligion. That the Count <hi>d' Auvergne</hi> ſhall be reſtored to the Marquiſate of <hi>Bergen op Zoom.</hi> That all Conqueſts in and out of <hi>Europe</hi> ſhall be mutually reſtored. That Priſoners of War ſhall be releaſed without Ranſom. All Contributions and Arrears ſhall ceaſe upon the Ratification. All pretenſions ſhall be annulled on both ſides, the better to prevent a Rupture. Subjects on both ſides ſhall have Ju<g ref="char:EOLhyphen"/>ſtice done them in the ordinary way, without having recourſe to Letters of Repriſal. If any thing be acted againſt this Treaty, the Tranſgreſſors ſhall only be puniſhed. In caſe of a Rupture, the Sub<g ref="char:EOLhyphen"/>jects on both ſides ſhall have 9 Months to withdraw their Effects: The Treaty betwixt <hi>France</hi> and <hi>Brandenburg</hi> in 1679, ſhall be re-eſtabliſhed. That betwixt <hi>France</hi> and <hi>Savoy</hi> in 1696. confirmed. The King of <hi>Sweden</hi> ſhall be comprehended in this Treaty, and thoſe who in 6 Weeks after the Ratificati<g ref="char:EOLhyphen"/>on ſhall be named by <hi>France,</hi> and on the part of their High and Mightineſſes, the Kings of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> and <hi>Spain,</hi> and all the Allies, who ſhall declare they will accept of the Peace 6 Weeks after the Ratification, as alſo the 13 Swiſs Cantons, and particularly the Proteſtant Cantons, <hi>Geneva,</hi> and their Dependencies, the <hi>Griſon</hi> Leagues. <hi>Neufchatel, St. Gall, Mulhouſe, Bi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne, B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>, Embden,</hi> &amp;c. and the King of <hi>Sweden</hi> and all other Potentates, may be Guarantees of this Treaty.</p>
+            <p>
+               <hi>Hague, October</hi> 22. The Articles betwixt the Emperor and <hi>France</hi> are not yet Signed, which is aſ<g ref="char:EOLhyphen"/>cribed to the Tricks of the French, that they may have opportunity to make new Propoſals. An ac<g ref="char:EOLhyphen"/>count of all the Conferences is ſent to the King at <hi>Loo.</hi> Abundance of Veſſels are ready, to ſail hence for <hi>France.</hi> It's thought the King will ſtay for ſome time at <hi>Loo.</hi> The Officers are forbidden to trouble his Majeſty there. We hear the <hi>Muſcovite</hi> Ambaſſadors are to have their Audience of Leave next Week and that an expedient is found out to furniſh them with ſome men of War, without doing any pre<g ref="char:EOLhyphen"/>judice to our Trade in <hi>Turky.</hi>
+            </p>
+            <p>
+               <hi>Hague Oct.</hi> 22. We hear from <hi>Turkey,</hi> That they are much alarm'd at the Elector of <hi>Saxony's</hi> being choſen King of <hi>Poland,</hi> becauſe the <hi>French</hi> aſſured them, that <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> would carry it, and declare War a<g ref="char:EOLhyphen"/>gainſt <hi>Muſcovy</hi> We hear from <hi>Daneſick,</hi> That the <hi>French</hi> on board <hi>Conti</hi> Squadron begin to grow very ſickly. And We are informed from <hi>Dunkirk,</hi> That the <hi>French</hi> Court have ordered their privateers there to be put to Sea, and ſeiſe all the Ships belonging to <hi>Dantzick,</hi> becauſe they have declared for the E<g ref="char:EOLhyphen"/>lector of <hi>Saxony.</hi>
+            </p>
+            <p>
+               <hi>Hague, Oct.</hi> 23. We hear the <hi>Venetians</hi> have ſunk divers Turkiſh Ships, and forc'd 7 Sualtana's into Harbour. That the Engliſh have taken 9 French Merchant-ment on the Banks of <hi>Newfoundland.</hi> The Engliſh and French Ambaſſadors have agreed to give mutual Paſports for Engliſh and French Ships, that are to go long Voyages: All the Points betwixt the <hi>Imperialists</hi> and <hi>France</hi> are now adjuſted, ex<g ref="char:EOLhyphen"/>cept the Pretenſions of the Dutcheſs of <hi>Orleanc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which it's thought will be accommodated in a few Days.</p>
+            <p>
+               <hi>Paris, Oct:</hi> 18. The Re-eſtabliſhment of Trade with the <hi>Dutch</hi> hath been publiſhed here. The King that his Subjects may enjoy the Fruits of the Peace, h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th ſuppreſſed the Capitation, the Utenſil and the Militia. It is not yet certain when We ſhall publiſh the Peace, ſome think that it will be de<g ref="char:EOLhyphen"/>ferred till the Emperor ſign. It's ſaid the Marriage of the Duke of <hi>Burgundy</hi> is put off till <hi>January,</hi> be<g ref="char:EOLhyphen"/>cauſe the Jewels, <hi>&amp;c.</hi> deſigned for the Wedding Suits cannot be got ready before that time, M. <hi>Vil<g ref="char:EOLhyphen"/>leroy</hi> is returned hither from <hi>Flanders.</hi> We hear, that the Prince of <hi>Conti</hi> hath not yet landed; and are impatient to hear of the ſucceſs of his Affairs, of which we are now very doubtful.</p>
+            <p>The Port Letters yeſterday ſay, That the <hi>Content</hi> Tranſport Ship with 50. Engliſh Priſoners, is ar<g ref="char:EOLhyphen"/>rived at <hi>Plimouth</hi> from St. <hi>Maloe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> from whence Captain <hi>Purchaſe</hi> is a<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> at <hi>Weymouth</hi> with 130. The latter reports, that upon the Peace's being proclaimed at St. <hi>Maloes,</hi> which was on Saturday ſennight all the Priſon Doors where the Engliſh lay, were thrown open, That the <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Souldiers there ſeem'd very much diſſatisfied at the Peaces being concluded; and that Companies, Wigs, Redcoats, <hi>&amp;c.</hi> might be had there at an eaſie rate. They add, that a few days before they came away, a ſmall En<g ref="char:EOLhyphen"/>gliſh Brigantine with Wine, from <hi>Antegoa,</hi> and a Spaniſh Veſſel of 200 Tuns were brought in thither and that the Privateers and Men of War are laid up as they come in. The <hi>Devonſhire,</hi> and three o<g ref="char:EOLhyphen"/>ther Men of War, are come into the <hi>Downes</hi> from <hi>Spithead;</hi> in order to be laid up. Sir <hi>Cloudeſly Shovel</hi> continues ſtill in the <hi>Downes</hi> with 8 or 10 of his Majeſties Ships.</p>
+            <p>
+               <hi>London.</hi> There are Letters in Town by the laſt Mail, intimating, That the French King, upon diſ<g ref="char:EOLhyphen"/>banding his Soldiers, had given orders to his General Officers, to acquaint their Soldiers, That it was not his inclination to diſoblige thoſe who had been ſeviceable to him; but the Peace being concluded, He was willing to eaſe ſuch as had been ſupporters of the War, and wiſhed every one to retire to their native Countries to improve the ground; promiſing them a reward for their Services. And that to thoſe who were inclinable to follow the Art of War, he would give Recommendations; and ordered them to give them thanks for what they have done.</p>
+            <p>There are alſo Letters which ſay, That all the Commotions in <hi>Poland</hi> are procured by the Natives on purpoſe to draw what Money they can from each of the Competitors, into the Kingdom, where it has been very ſcarce for ſome years; and that afterwards they deſign to declare: And that the great eſt part of the Nobility, Gentry, <hi>&amp;c.</hi> having already joyned with the Elector of <hi>Saxony,</hi> it is not doub<g ref="char:EOLhyphen"/>ted that the Prince of <hi>Conti</hi> will fail in his Enterprize.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
